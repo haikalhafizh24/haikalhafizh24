@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @haikalhafizh24
-- 👀 I’m interested in mobile apps development and embedded system
+- 👀 I’m interested in mobile apps development and firmware development
 - 🌱 I’m currently learning Flutter
 - 💞️ I’m looking to collaborate on Mobile apps 
 - 📫 How to reach me, DM me on Instagram @haikalhfzh24 or send me email to haikal24muzakirillah@gmail.com
